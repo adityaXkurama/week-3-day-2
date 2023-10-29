@@ -1,0 +1,1 @@
+Node Js is a Runtime Environment of Javascript which executes javascript code outside the browser
